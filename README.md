@@ -1,45 +1,13 @@
 # AusAnnotate: Supporting Collaborative Annotation of Australian Texts
 
-[![Build Status](https://travis-ci.org/elotroalex/ed.svg?branch=gh-pages)](https://travis-ci.org/elotroalex/ed)
+On a basic, practical level this website has been set up to publish transcriptions of several "Tom Collins" novels that have so far escaped digitisation. It grows out of my work as a scholarly editor and book historian. I established the [Joseph Furphy Digital Archive](http://www.austlit.edu.au/furphy) on [AustLit](http://www.austlit.edu.au/) as a first step towards a comprehensive digital resource for the study of a writer who is a central figure in Australia's literary history. AustLit's bibliographical foundations provide a reliable structure on which to assemble and connect the disparate digital resources available to students and scholars. But it does not yet provide the infrastructure and interface needed by scholarly editors to independently assemble reliable scholarly editions in digital form. 
 
+Until now, an unabridged version of *Rigby's Romance* has not been available online. Because of a preference for first editions in digitisation projects, 'Tom Collins' *Rigby's Romance* has only been available in its abridged form -- published in 1921 nine years after Furphy's death. In 1905-1906 it had appeared in print as a serial in the Broken Hill newspaper the *Barrier Miner*, three years after it, along with another chapter from *Such is Life*, had been [extracted from the longer typescript version](http://openjournals.library.usyd.edu.au/index.php/JASAL/article/view/9848). An unabridged version was not available in book form until 1946 when Guy Howarth prepared an edition based on the newspaper serial. This complicated material and textual situation [informed the development of the AustESE WorkBench](http://dsh.oxfordjournals.org/content/early/2016/02/29/llc.fqw013), and this platform was meant to support the publication of *Rigby's Romance*, but AustESE is currently [hibernating](https://github.com/uq-eresearch/AustESE/wiki) due to a lack of ongoing financial and infrastructural support. Similarly, due to limited opportunities in the academy, I have conducted much of this work as an independent scholar with limited access to institutional support and funding, and with a basic level of coding skills. Sustainability is always an issue. But a scholarly editor's work must go on and so a workable alternative to these resources had to be found.
 
-![Sample Ed screenshot](https://github.com/elotroalex/ed/blob/master/assets/screenshot.png)
+When Alex Gil's Jekyll theme ['Ed'](https://github.com/elotroalex/ed) was released in 2016 a genuine alternative became available. Based on minimal computing principals, with ready-made boiler plate easily adapted for new projects, Ed offers just enough to shift transcriptions of texts (in a simple Markdown format) from a text editor and onto the Internet in a simple yet attractive presentation. This has been a primary goal for Tom Collins and Company. The static website supported by Jekyll also provides a suitable environment for a secondary goal: collaborative annotation. This is made possible with [Hypothesis open scholarly annotation](https://hypothes.is/). This version of *Rigby's Romance* will undergo a period of collaborative annotation to complete the trilogy of annotated editions that began with [*The Annotated Such is Life*](http://trove.nla.gov.au/work/5733507) and [*The Buln-buln and the Brolga*](http://trove.nla.gov.au/work/5671545).
 
+This website need not remain one devoted only to "Tom Collins". As a test-case, *Rigby's Romance* will provide a model for future publication of texts that have escaped digitisation. Tom Collins and Company plans to publish Australian texts from multiple contributors with an aim to generate a series of annotated editions of classic and not-so-classic Australian texts. By providing reliable texts and associated annotation, repurposed through innovative discovery tools, Tom Collins and Company aims, ultimately, to foster engagement with Australian literature, and to encourage the reading of Australian classics.
 
+Roger Osborne, Editor
 
-## Introduction
-
-Ed is a [Jekyll](https://jekyllrb.com/) theme designed for textual editors based on [minimal computing](http://go-dh.github.io/mincomp/) principles, and focused on legibility, durability, ease and flexibility.
-
-
-One of our most pressing and ever revolving needs as scholars is to pass on our textual artifacts from one generation to another. The art of textual editing, among other practices, has helped many cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its highest form by a dwindling number of scholars. In a digital environment the problem is compounded by the difficulties of the medium. While vast repositories, and "e-publications" appear on the online scene yearly, very few manifest a textual scholar's disciplined attention to detail. In contrast, most textual scholars who have made the leap to a rigorous digital practice have focused on markup, relying on technical teams to deploy and maintain their work. This makes your average scholarly digital edition a very costly, and therefore limited affair.
-
-As we see it, a minimal edition is one that aims to reduce the size and complexity of the back and front end, and the learning curves for the user and the producer. Out of-the-box, this theme can help you build a simple reading edition, or a traditional scholarly edition with footnotes and a bibliography without breaking the bank. In our estimate, these are the two most immediately useful type of editions for editors and readers. An edition produced with Ed consists of static pages whose rate of decay is substantially lower than database-driven systems. As an added bonus, these static pages require less bandwith. Our hope is that our approach can help beginners or veterans deploy beautiful editions with less effort, that it can help us teach a 'full stack' [in one academic semester](https://github.com/susannalles/MinimalEditions/blob/master/index.md), allow us to care for our projects at less cost, and perhaps, just perhaps, allow us to generate high-quality editions on github.io in large quantities based on the [git-lit](http://jonreeve.com/2015/09/introducing-git-lit/) model by Jonathan Reeve. We're coming for you, Kindle! 
-
-
-## Sample Ed editions.
-
-- [Our sample site](http://elotroalex.github.io/ed/) is the first edition built with Ed.
-- [Fugitive Verses](http://fugitiverses.viraltexts.org/): Popular Reprinted Poetry from Nineteenth Century Newspapers
-- [mini lazarillo](http://minilazarillo.github.io/): A minimal edition of the *Lazarillo de Tormes*
-
-
-
-## Current Features
-- Templates for narrative, drama and poetry
-- Responsive design for mobile phones, tablets and PCs.
-- Relatively easy to learn and teach
-- Works well in high- or low- bandwitdh scenarios
-- Easier for digital archives and libraries to preserve
-- Open source, open access
-- Unobtrusive footnotes
-- Metadata in Dublin Core and OpenGraph to play nice with Zotero, libraries and social media.
-- Automatic table of content generation
-- Simple search functionality
-- Annotations via [hypothes.is](https://hypothes.is/)
-- Optional: Ability to generate well-formatted bibliographies and linked citations
-
-
-## Installing and using Ed
-
-To learn how to install and begin using Ed, please visit our [documentation page](http://elotroalex.github.io/ed/documentation.html).
+November 2016    
