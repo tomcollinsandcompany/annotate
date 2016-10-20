@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://elotroalex.github.io'
-baseurl:             '/ed'
+title:               Tom Collins and Company. 
+tagline:             'Text editing and collaborative annotation' 
+description:         'Tom Collins and Company aims to foster a deeper engagement with literary works through text editing and collaborative annotation.' 
+url:                 'http://tomcollinsandcompany.github.io'
+baseurl:             '/annotate'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Roger Osborne
+  url:               https://furphyarchive.wordpress.com/
+  email:             tomcollinsandcompany@gmail.com
 
 # Permalinks
 

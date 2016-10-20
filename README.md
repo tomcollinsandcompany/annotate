@@ -1,4 +1,4 @@
-# Ed: A Jekyll Theme for Minimal Editions
+# AusAnnotate: Supporting Collaborative Annotation of Australian Texts
 
 [![Build Status](https://travis-ci.org/elotroalex/ed.svg?branch=gh-pages)](https://travis-ci.org/elotroalex/ed)
 
