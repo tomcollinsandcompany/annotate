@@ -305,7 +305,7 @@ the purpose.
 
 ---
 
-##CHAPTER I
+## CHAPTER I
  
 
 
@@ -2882,7 +2882,7 @@ suffer and be strong.
 
 ---
 
-##CHAPTER XIII
+## CHAPTER XIII
 
 
 - This is the state of man; to-day he puts forth
@@ -3929,7 +3929,7 @@ lis'n to, judgin' by his style."
 
 ---
 
-##CHAPTER XVII
+## CHAPTER XVII
 
 
 - O blessed effect of penury and want,
@@ -4179,7 +4179,7 @@ humor.
 
 ---
 
-##CHAPTER XVIII
+## CHAPTER XVIII
 
 
 - Wal, it's a marcy we've gut folks to tell us
@@ -4433,7 +4433,7 @@ to save money. But Herr Moses hung out still."
 
 ---
 
-##CHAPTER XIX
+## CHAPTER XIX
 
 - "O let me safely to the fair return.
 - Say with a kiss, she must not, shall not, mourn.
@@ -4616,7 +4616,7 @@ manner too trivial to be worth reproduction here.
 
 ---
 
-##CHAPTER XX
+## CHAPTER XX
 
 - Hear you this Triton of the minnows? mark you
 - His absolute 'shall'?
@@ -4901,7 +4901,7 @@ itself." The Senator paused and lit his pipe.
 
 ---
 
-##CHAPTER XXI
+## CHAPTER XXI
 
 
 
@@ -5049,7 +5049,7 @@ known as the 'medium of exchange'."
 
 ---
 
-##CHAPTER XXII
+## CHAPTER XXII
 
 
 - These lips are mute, these eyes are dry;
@@ -5136,7 +5136,7 @@ hurry to the railway station."
 
 ---
 
-##CHAPTER XXIII
+## CHAPTER XXIII
 
 
 
@@ -5343,7 +5343,7 @@ the subject of his misplaced derision."<pb n="124"/>
 
 ---
 
-##CHAPTER XXIV
+## CHAPTER XXIV
 
 
 - Come, Disappointment, come!
@@ -5540,7 +5540,7 @@ adornment.<pb n="129"/>
 
 ---
 
-##CHAPTER XXV
+## CHAPTER XXV
 
 
 - The Moral Bully, though he never swears,
@@ -5718,7 +5718,7 @@ unexpected quarter.
 
 --
 
-##CHAPTER XXVI
+## CHAPTER XXVI
 
 
 - Of all the gentle tenants of the place,
@@ -5943,7 +5943,7 @@ doorstep.<pb n="140"/>
 
 ---
 
-##CHAPTER XXVII
+## CHAPTER XXVII
 
 
 
@@ -6258,7 +6258,7 @@ He paused abruptly.
 
 ---
 
-##CHAPTER XXVIII
+## CHAPTER XXVIII
 
 
 - This world is but the rugged road
@@ -6434,7 +6434,7 @@ intellectual duello.
 
 ---
 
-##CHAPTER XXIX
+## CHAPTER XXIX
 
 
 - . . . Diotrephes, who loveth to have the pre-eminence . . . prating against
@@ -6730,7 +6730,7 @@ Tom," replied the Senator, dejectedly.
 
 ---
 
-##CHAPTER XXX
+## CHAPTER XXX
 
 
 - Wer't not for me, the world would roll
@@ -6948,7 +6948,7 @@ moment to let his noisome teaching soak in.
 
 ---
 
-##CHAPTER XXXI
+## CHAPTER XXXI
 
 
 
@@ -7054,7 +7054,7 @@ emergencies.<pb n="170"/>
 
 ---
 
-##CHAPTER XXXII
+## CHAPTER XXXII
 
 
 
@@ -7197,7 +7197,7 @@ moss."
 
 ---
 
-##CHAPTER XXXIII
+## CHAPTER XXXIII
 
 
 - Forgotten of God and the demons --
@@ -7371,7 +7371,7 @@ on Bible lines, in deference to you fellows."
 
 ---
 
-##CHAPTER XXXIV
+## CHAPTER XXXIV
 
 - A vile conceit in pompous words express'd
 - Is like a clown in regal purple dress'd.
@@ -7571,7 +7571,7 @@ spines."<pb n="184"/>
 
 ---
 
-##CHAPTER XXXV
+## CHAPTER XXXV
 
 
 
@@ -7741,7 +7741,7 @@ the river, a little apart from the rest.
 
 ---
 
-##CHAPTER XXXVI
+## CHAPTER XXXVI
 
 - And she was lost -- and yet I breathed.
 - {:.indent-1}But not the breath of human life;
@@ -8065,7 +8065,7 @@ from. Do you know, Tom?"
 
 ---
 
-##CHAPTER XXXVII
+## CHAPTER XXXVII
 
 
 - Great are my plans! I'd loose and bind
@@ -8317,7 +8317,7 @@ at issue is the efficiency, or futility, of special legislation."
 
 ---
 
-##CHAPTER XXXVIII
+## CHAPTER XXXVIII
 
 
 - But oh! for him my fancy culls
@@ -8609,7 +8609,7 @@ The point at issue now is moral heredity."
 
 ---
 
-##CHAPTER XXXIX
+## CHAPTER XXXIX
 
 - {:.indent-7}Men prate
 - Of all heads to an equal grade cashiered
@@ -8861,7 +8861,7 @@ Pluck -- swish.
 
 ---
 
-##CHAPTER XL
+## CHAPTER XL
 
 
 - "I have slain the Mishe-Nahma,
@@ -8986,7 +8986,7 @@ exaggerate for the sake of proving my argument."
 
 ---
 
-##CHAPTER XLI
+## CHAPTER XLI
 
 
 - The hills that shake, although unrent,
@@ -9218,7 +9218,7 @@ There was a pause.
 
 ---
 
-##CHAPTER XLII
+## CHAPTER XLII
 
 
 
@@ -9399,7 +9399,7 @@ were visions about.
 
 ---
 
-##CHAPTER XLIII
+## CHAPTER XLIII
 
 
 - This wreck of a realm -- this deed of my doing --
@@ -9698,7 +9698,7 @@ that momentary."<pb n="237"/>
 
 ---
 
-##CHAPTER XLIV
+## CHAPTER XLIV
 
 
 - {:.indent-2}Nay, lay thee down and roar;
@@ -9823,7 +9823,7 @@ fourteen hours to a twenty-five years' estrangement.
 
 ---
 
-##CHAPTER XLV
+## CHAPTER XLV
 
 
 - See, see, thou dog! what thou hast done; and hide thy shame in hell.
@@ -9963,7 +9963,7 @@ into the front parlour.
 
 ---
 
-##CHAPTER XLVI
+## CHAPTER XLVI
 
 	
 - Go for my wandering boy to-night;
@@ -10626,7 +10626,7 @@ had seemed to contain all the elements of happiness.
 
 ---
 
-##CHAPTER XLVIII
+## CHAPTER XLVIII
 
 - The gentle Knight, who saw their rueful case,
 - {:.indent-1}Let fall a-down his silver beard some tears.
