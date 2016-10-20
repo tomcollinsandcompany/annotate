@@ -1,4 +1,4 @@
-# AusAnnotate: Supporting Collaborative Annotation of Australian Texts
+# Tom Collins and Company: Supporting Collaborative Annotation of Australian Texts
 
 On a basic, practical level this website has been set up to publish transcriptions of several "Tom Collins" novels that have so far escaped digitisation. It grows out of my work as a scholarly editor and book historian. I established the [Joseph Furphy Digital Archive](http://www.austlit.edu.au/furphy) on [AustLit](http://www.austlit.edu.au/) as a first step towards a comprehensive digital resource for the study of a writer who is a central figure in Australia's literary history. AustLit's bibliographical foundations provide a reliable structure on which to assemble and connect the disparate digital resources available to students and scholars. But it does not yet provide the infrastructure and interface needed by scholarly editors to independently assemble reliable scholarly editions in digital form. 
 
