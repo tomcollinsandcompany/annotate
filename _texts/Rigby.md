@@ -62,7 +62,7 @@ toc:
 ---
 <a id="title-page" />
 
-<p class="centered large">RIGBY'S<br>ROMANCE<br>A "MADE IN AUSTRALIA" NOVEL</p>
+<p class="centered large">RIGBY'S ROMANCE<br><br>A "Made in Australia" Novel</p>
 <br>
 <p class="centered larger">By<br>TOM COLLINS</p>
 
