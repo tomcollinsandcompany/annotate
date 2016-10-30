@@ -58,18 +58,22 @@ toc:
 - Chapter XLVII
 - Chapter XLVIII
 ---
+
+---
 <a id="title-page" />
 
-<p class="centered large">RIGBY'S<br>ROMANCE<br>A "MADE IN AUSTRALIA" NOVEL<br>By</p>
+<p class="centered large">RIGBY'S<br>ROMANCE<br>A "MADE IN AUSTRALIA" NOVEL</p>
 <br>
-<p class="centered larger">TOM COLLINS</p>
+<p class="centered larger">By<br>TOM COLLINS</p>
 
 <p class="centered large">(<em>Joseph Furphy</em>)<br>Author of <em>Such is Life</em></p>
 <br>
 
 <p class="centered">1946</p>
 
-<p class="centered">ANGUS AND ROBERTSON LTD<br>SYDNEY--LONDON</p>
+<p class="centered">ANGUS AND ROBERTSON LTD<br>SYDNEY - LONDON</p>
+
+---
 
 ---
 
