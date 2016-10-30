@@ -82,9 +82,9 @@ toc:
 
 The text of *Rigby's Romance* presented here was transcribed from the editor's personal copy of the Angus and Robertson edition (1946). The physical copy was scanned to PDF and OCR performed using a version of ABBYY Fine Reader. The text has undergone three rounds of checking, including a final oral collation using a recording of John Derum's reading of the novel.
 
-The 1946 Angus and Robertson edition was set from files of the Broken Hill *Barrier Truth* weekly newspaper. These were provided by Joseph Furphy's literary executor Kate Baker and they are now held in the Sydney Mitchell Library. A complete run of the serial in its original context can be found at the National Library of Australia. A <a href="http://juxtacommons.org/shares/8WskwU" target="_blank">textual comparison</a> between this text and the original fifth chapter of *Such is Life* was produced via Juxta Commons. This comparison view indicates the changes Joseph Furphy made as the text of *Rigby's Romance* evolved from its original context as a chapter of *Such is Life* to become a separate work.
+The 1946 Angus and Robertson edition was set from files of the Broken Hill *Barrier Truth* weekly newspaper. These were provided by Joseph Furphy's literary executor Kate Baker and they are now held in the Sydney Mitchell Library. A complete run of the serial in its original context can be found at the National Library of Australia. A <a href="http://juxtacommons.org/shares/8WskwU" target="_blank">textual comparison</a> between this text and the original fifth chapter of *Such is Life* was produced via Juxta Commons. This comparison view shows the changes Joseph Furphy made as the text of *Rigby's Romance* evolved from its original context as a chapter of *Such is Life* to become a completely separate work in its own right.
 
-To open a Table of Contents click the icon at top-left.          
+To open a Table of Contents, click the icon at top-left.          
 
 ---
 
