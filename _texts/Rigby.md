@@ -62,9 +62,10 @@ toc:
 ---
 <a id="title-page" />
 
-<p class="centered larger"><em>RIGBY'S ROMANCE</em><br><br>A "Made in Australia" Novel</p>
+<p class="centered larger"><em>RIGBY'S ROMANCE</em></p>
 <br>
-<p class="centered large">By<br>TOM COLLINS</p>
+<p class="centered large">A "Made in Australia" Novel</p>
+<p class="centered large">by<br>TOM COLLINS</p>
 
 <p class="centered large">(<em>Joseph Furphy</em>)<br>Author of <em>Such is Life</em></p>
 <br>
