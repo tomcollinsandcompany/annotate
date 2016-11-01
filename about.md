@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Tom Collins and Company
+title: About
 ---
 
 On a basic, practical level this website has been set up to publish transcriptions of several "Tom Collins" novels that have so far escaped digitisation. It grows out of my work as a scholarly editor and book historian. I established the <a href="http://www.austlit.edu.au/furphy" target="_blank">Joseph Furphy Digital Archive</a> on <a href="http://www.austlit.edu.au/" target="_blank">AustLit</a> as a first step towards a comprehensive digital resource for the study of a writer who is a central figure in Australia's literary history. AustLit's bibliographical foundations provide a reliable structure on which to assemble and connect the disparate digital resources available to students and scholars. New editions (digital or print), wherever they reside, can be quickly recorded within this open-ended bibliographical assembly. This works well with slow, long-term, open-ended projects like the Joseph Furphy Digital Archive.    
