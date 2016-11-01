@@ -1432,12 +1432,12 @@ latter spoke to me. Then, after a deferential pause, Dixon <pb n="28"/>
 removed his pipe from his mouth with a delicate movement
 of wrist and fingers, and suavely turned to the Colonel.
 
-*Parturiunt montes nascitur ridiculus* (adj.) *>mus*" he
+*Parturiunt montes nascitur ridiculus* (adj.) *mus*" he
 observed in a compassionate tone, and with faultless 
 precision of accent. "Same time, it shows the feller's got a sort
 o' dim idear o' things. Quite common to see this (adj.)
 cravin' for a bit o' knowledge among the *profanum* (adj.)
-*vulgus<*. Comes sort o' hard on a pore (individual) to feel
+*vulgus*. Comes sort o' hard on a pore (individual) to feel
 his self no better'n a *vox et praeterea* (adj.) *nihil*, as the
 sayin' is. Don't it strike you that way, Rigby?"
 
